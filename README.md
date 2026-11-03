@@ -1,4 +1,4 @@
-🔎 Overview
+ Overview
 <--unfinised project-->
 This project demonstrates how to structure a single‑loop, event‑driven state machine in LabVIEW to control a simple packaging line:
 
